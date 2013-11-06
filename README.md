@@ -8,3 +8,6 @@ A [collection of UX/UI examples](https://github.com/offlinefirst/ux-examples/iss
 [Open an Issue](https://github.com/offlinefirst/ux-examples/issues) that shows a particular example of a UX/UI.
 
 
+## See Also
+
+Introduction to “Offline First”: http://blog.hood.ie/2013/11/say-hello-to-offline-first/
